@@ -1,0 +1,19 @@
+{
+  "name": "webpack_yii2",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trotskyi/webpack_yii2.git"
+  },
+  "author": "Trotskyi Oleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trotskyi/webpack_yii2/issues"
+  },
+  "homepage": "https://github.com/Trotskyi/webpack_yii2#readme"
+}
